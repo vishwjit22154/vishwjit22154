@@ -40,6 +40,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Dodge-game" /> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=QES-Internship" /> <br/>
 
-
+[website]: https://vishwajit.netlify.app
 [instagram]: https://instagram.com/reddy_vishwajit
 [linkedin]: https://www.linkedin.com/in/vishwajit25
