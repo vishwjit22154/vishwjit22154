@@ -1,16 +1,46 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishwajit H</h1>
+<h3 align="center">“Man plans, God Laughs pra”</h3>
 
-<!--
-**vishwjit22154/vishwjit22154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Coder !!
+--👀 I’m interested in Artificial Intelligence.<br/>
+--🌱 I’m currently learning Computer Science Engineering.<br/>
+--💞️ I’m looking to collaborate on Computer Projects.<br/>
+--📫 How to reach me : mail me on vishwajitharish@gmal.com<br/>
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishwajit25#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishwajit25#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/reddy_vishwajit#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/reddy_vishwajit#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](https://vishwajit.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://vishwajit.netlify.app#gh-dark-mode-only)
+
+### Languages and Tools:
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### My Stats
+
+  <img align="left" alt="Amogh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishwjit22154&theme=radical&show_icons=true" /> 
+  
+  <img align="center" alt="Amogh's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjit22154&theme=radical&layout=compact" />
+  
+  </br>
+  <br/>
+  <p align="center">
+        <img alt="Vishwajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwjit22154&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+### My Top Repos
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=AI-ML-Colon-Cancer" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Covid-Bed-Slot-Booking-System" /> <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Weather-Application" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Jumping-Box" /> <br/>
+
+
+[instagram]: https://instagram.com/reddy_vishwajit
+[linkedin]: https://www.linkedin.com/in/vishwajit25
