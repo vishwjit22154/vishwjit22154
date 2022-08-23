@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishwajit H</h1>
-<h3 align="center">“Man plans, God Laughs pra”</h3>
+<h3 align="center">“Man plans, God Laughs”</h3>
 
 ## I'm a Student and Coder !!
 --👀 I’m interested in Artificial Intelligence.<br/>
 --🌱 I’m currently learning Computer Science Engineering.<br/>
 --💞️ I’m looking to collaborate on Computer Projects.<br/>
---📫 How to reach me : mail me on vishwajitharish@gmal.com<br/>
+--📫 How to reach me : mail me on vishwajitharish2812@gmail.com <br/>
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://vishwajit.netlify.app#gh-light-mode-only)
