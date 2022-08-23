@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishwajit25#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishwajit25#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishwajit25 #gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishwajit25 #gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/reddy_vishwajit#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/reddy_vishwajit#gh-dark-mode-only)
@@ -36,10 +36,10 @@
 </p>
 
 ### My Top Repos
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=AI-ML-Colon-Cancer" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Covid-Bed-Slot-Booking-System" /> <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Weather-Application" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Jumping-Box" /> <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=myPortfolio" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=covid-bed-allotment-system" /> <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Dodge-game" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=QES-Internship" /> <br/>
 
 
 [instagram]: https://instagram.com/reddy_vishwajit
