@@ -39,7 +39,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=WeatherApp" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=covid-bed-allotment-system" /> <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=QES-Internship" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Dodge game" /> <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Dodge-game" /> <br/>
 
 [website]: https://portfoliovishwajit22.s3.ap-south-1.amazonaws.com/Portfolio2/index.html
 [instagram]: https://instagram.com/reddy_vishwajit
