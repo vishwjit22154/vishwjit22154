@@ -24,9 +24,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Eit-bit" /> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Coin-Conversion" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=covid-bed-allotment-system" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=QES-Internship" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Dodge-game" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=WeatherApp" />
+
 
 
 [website]: https://portfoliovishwajit22.s3.ap-south-1.amazonaws.com/Portfolio2/index.html
