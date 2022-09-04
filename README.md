@@ -22,7 +22,8 @@
 
 ### My Top Repos
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Eit-bit" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Coin-Conversion" /> <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Coin-Conversion" /> 
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=covid-bed-allotment-system" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vishwjit22154&theme=radical&repo=Dodge-game" /> <br/>
 
