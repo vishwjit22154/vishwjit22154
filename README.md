@@ -8,15 +8,7 @@
 - Knowledged in python as full stack developer , worked on apple app development using Swift and SwiftUI ,also worked with python ,django ,Mysql , HTML ,CSS, JavaScript.<br/>
 - How to reach me : mail me on vishwajitharish2812@gmail.com <br/>
 
-### Connect with me:
-[![website](./img/globe-light.svg)](https://vishwajit.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://vishwajit.netlify.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishwajit25#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vishwajit25#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/reddy_vishwajit#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/reddy_vishwajit#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
