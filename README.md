@@ -16,9 +16,9 @@
 
 ### My Stats
 
-  <img align="left" alt="Amogh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishwjit22154&theme=radical&show_icons=true" /> 
+  <img align="left" alt="Vishwajit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishwjit22154&theme=radical&show_icons=true" /> 
   
-  <img align="center" alt="Amogh's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjit22154&theme=radical&layout=compact" />
+  <img align="center" alt='Vishwajit's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjit22154&theme=radical&layout=compact" />
   
   </br>
   <br/>
