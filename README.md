@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishwajit Harish</h1>
 <h3 align="center">A passionate IT professional specializing in cybersecurity and development.</h3>
-
+<p align="center">
 ![mastermind_by_pixeljeff_de0dib6-250t-2x](https://github.com/user-attachments/assets/238e869b-e3de-43a3-a3f1-31bd65e50fb4)
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
