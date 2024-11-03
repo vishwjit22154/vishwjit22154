@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajit Harish</h1>
 <h3 align="center">A passionate IT professional specializing in cybersecurity and development.</h3>
 <p align="centre">
-![mastermind_by_pixeljeff_de0dib6-250t-2x](https://github.com/user-attachments/assets/4bcd6bcd-5c6d-45f8-97f9-9625f6ca6577)
+<img src="https://your-image-hosting-url.com/mastermind.gif" alt="Mastermind by PixelJeff" width="500">
 
 </p>
 
