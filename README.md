@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajit Harish</h1>
 <h3 align="center">A passionate IT professional specializing in cybersecurity and development.</h3>
+![mastermind_by_pixeljeff_de0dib6-250t-2x-2](https://github.com/user-attachments/assets/e0ba4d66-be92-47bb-8ea8-6bc5d6e66ad2)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
